@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>I am a second-year BTech student specializing in Robotics and Artificial Intelligence at NMAM Institute of Technology. My passion for Robotics and AI drives me to explore innovative solutions in these fields. I have a basic foundation in programming languages such as Python, and I am actively expanding my knowledge in Artificial Intelligence.<br><br>I am exploring and participating in projects and workshops to develop my technical skills and problem-solving abilities.<br><br>I'm eager to apply my knowledge and skills in real-world environments, whether through internships, collaborative projects, or research opportunities. My goal is to contribute to advancements in AI and robotics that can make a meaningful impact on society.
+<br> * Third year B.Tech student in Robotics and Artificial Intelligence at NMAM Institute of Technology, Nitte
+* Learning and building with Python, JavaScript, HTML, CSS, and basic web development tools
+* Currently exploring Natural Language Processing (NLP) to understand how machines process and generate human language
+* Interested in using AI to build useful tools with simple interfaces
+* Open to internships or collaboration in AI or web development
 
 
 ## 🌐 Socials:
