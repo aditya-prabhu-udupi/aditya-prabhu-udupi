@@ -2,7 +2,7 @@
 
 - Third year B.Tech student in Robotics and Artificial Intelligence at NMAM Institute of Technology, Nitte  
 - Learning and building with Python, JavaScript, HTML, CSS, and basic web development tools  
-- Currently exploring Natural Language Processing (NLP) to understand how machines process and generate human language  
+- Currently exploring Machine Learning to understand how systems learn patterns from data and make intelligent decisions. 
 - Interested in using AI to build useful tools with simple interfaces  
 - Open to internships or collaboration in AI or web development
 
