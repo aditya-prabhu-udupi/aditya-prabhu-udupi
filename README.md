@@ -2,15 +2,17 @@
 
 - Third year B.Tech student in Robotics and Artificial Intelligence at NMAM Institute of Technology, Nitte  
 - Learning and building with Python, JavaScript, HTML, CSS, and basic web development tools  
-- Currently exploring Machine Learning to understand how systems learn patterns from data and make intelligent decisions. 
+- Currently exploring Machine Learning to understand how systems learn patterns from data and make intelligent decisions
 - Interested in using AI to build useful tools with simple interfaces  
 - Open to internships or collaboration in AI or web development
+- Check out my portfolio: [Portfolio Website](https://aditya-prabhu-portfolio.netlify.app/)
 
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-prabhu-056825290)
 [![Arattai](https://img.shields.io/badge/Arattai-%23FFD500.svg?logo=wechat&logoColor=white)](https://arattai.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/918217755440)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=internet-explorer&logoColor=white)](https://aditya-prabhu-portfolio.netlify.app/)
 > 🟡 Arattai ID: **@aditya_prabhu_udupi**
 
 ---
