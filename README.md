@@ -2,7 +2,7 @@
 
 - Third year B.Tech student in Robotics and Artificial Intelligence at NMAM Institute of Technology, Nitte  
 - Learning and building with Python, JavaScript, HTML, CSS, and basic web development tools  
-- Currently exploring Machine Learning to understand how systems learn patterns from data and make intelligent decisions
+- Currently a Software Development Intern at Giddly.com, contributing to the development of an educational application
 - Interested in using AI to build useful tools with simple interfaces  
 - Open to internships or collaboration in AI or web development
 
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-prabhu-056825290)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/918217755440)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=internet-explorer&logoColor=white)](https://aditya-prabhu-portfolio.netlify.app/)
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1475356937448329267)
 
 ---
 ## 🧩 Projects
