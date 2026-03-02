@@ -39,8 +39,4 @@
 - WhatsApp: [Chat Here](https://wa.me/918217755440)  
 - Website: [Click here](https://aditya-prabhu-portfolio.netlify.app/)
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-prabhu-udupi&label=Visitors&color=FFD500&style=flat-square)
-
-
 
