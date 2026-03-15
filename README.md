@@ -95,11 +95,6 @@ Currently learning and building with:
 
 # 📫 Contact
 
-📧 Email  
-aditya.prabhu0910@gmail.com  
-
-🌐 Portfolio  
-https://aditya-prabhu-portfolio.netlify.app/
-
-💬 WhatsApp  
-https://wa.me/918217755440
+📧 Email: [aditya.prabhu0910@gmail.com](aditya.prabhu0910@gmail.com)  
+🌐 Portfolio: [Click here](https://aditya-prabhu-portfolio.netlify.app/)  
+💬 Whatsapp: [Click here](https://wa.me/918217755440)
