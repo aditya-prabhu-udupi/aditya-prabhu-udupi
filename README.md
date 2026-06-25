@@ -5,10 +5,8 @@
 
 # 💫 About Me
 
-🎓 Third-year **B.Tech student in Robotics & Artificial Intelligence**  
+🎓 Final-year **B.Tech student in Robotics & Artificial Intelligence**  
 📍 NMAM Institute of Technology, Nitte  
-
-Currently working as a **Software Development Intern at Giddly.com**, contributing to the development of an educational application.
 
 I enjoy building **useful tools with simple interfaces** using AI and modern web technologies.
 
